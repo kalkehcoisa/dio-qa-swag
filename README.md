@@ -33,7 +33,7 @@ O objetivo é revisar conceitos de testes manuais no contexto ágil e praticar a
 
 ## 📄 Descrição dos documentos
 
-### `01_fluxo_trabalho_e_bug.pdf`
+### [01_fluxo_trabalho_e_bug.pdf](01_fluxo_trabalho_e_bug.pdf)
 
 Define o fluxo de trabalho do projeto e o ciclo de vida de bugs.
 
@@ -47,7 +47,7 @@ Define o fluxo de trabalho do projeto e o ciclo de vida de bugs.
 
 ---
 
-### `02_user_stories.pdf`
+### [02_user_stories.pdf](02_user_stories.pdf)
 
 Contém duas User Stories elaboradas a partir da análise do SwagLabs, seguindo o critério INVEST e o princípio 3C.
 
@@ -69,7 +69,7 @@ Contém duas User Stories elaboradas a partir da análise do SwagLabs, seguindo 
 
 ---
 
-### `03_casos_de_teste.pdf`
+### [03_casos_de_teste.pdf](03_casos_de_teste.pdf)
 
 Reúne o plano de testes, os casos step-by-step, os cenários BDD e o ciclo de testes da Sprint 1.
 
