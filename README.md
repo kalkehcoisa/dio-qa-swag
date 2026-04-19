@@ -4,6 +4,9 @@ Projeto prático do bootcamp DIO: **"O dia a dia de um QA: A prática de testes 
 
 O objetivo é revisar conceitos de testes manuais no contexto ágil e praticar as atividades do dia a dia de um QA, com foco em testes funcionais caixa-preta.
 
+Aqui está o material de apoio e [especificacao.pdf](especificacao.pdf) do projeto.
+
+
 ---
 
 ## 📋 Sobre o projeto
